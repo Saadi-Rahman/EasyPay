@@ -19,7 +19,7 @@ document.getElementById("btn-submit").addEventListener("click", function(){
         window.location.href = "home.html";
     }
     else {
-        alert("invlid username or password !");
+        alert("inavlid username or password!");
     }
 }) 
 
